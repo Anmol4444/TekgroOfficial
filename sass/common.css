@@ -1,0 +1,18 @@
+.box {
+  max-width: 400px;
+  height: 200px;
+  background-color: red;
+}
+
+.btn {
+  margin: 30px 0px;
+  width: 150px;
+  background-color: green;
+}
+
+.btn a {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+}
+/*# sourceMappingURL=common.css.map */
